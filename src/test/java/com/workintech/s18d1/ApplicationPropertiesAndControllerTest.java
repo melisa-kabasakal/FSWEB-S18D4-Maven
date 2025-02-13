@@ -175,8 +175,6 @@ class ApplicationPropertiesAndControllerTest {
     }
 
 
-
-
     @Test
     @DisplayName("Find by bread type test")
     void testFindByBreadType() throws Exception {
