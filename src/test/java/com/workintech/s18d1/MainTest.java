@@ -173,6 +173,8 @@ class MainTest {
         assertEquals(expectedMessage, errorResponse.getMessage(), "The retrieved message should match the expected message.");
     }
 
+
+
     @Test
     void testBurgerExceptionCreation() {
         String expectedMessage = "Test exception message";
